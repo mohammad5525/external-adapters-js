@@ -35,9 +35,9 @@
     "@chainlink/ea-test-helpers": "workspace:*",
     "@chainlink/proof-of-reserves-adapter": "workspace:*",
     "@renproject/interfaces": "^2.5.1",
-    "@renproject/ren": "^2.5.1",
-    "@renproject/utils": "^2.5.1",
-    "bitcoinjs-lib": "^5.2.0",
+    "@renproject/ren": "^3.1.0",
+    "@renproject/utils": "^3.1.0",
+    "bitcoinjs-lib": "^6.0.0",
     "tslib": "^2.3.1"
   },
   "devDependencies": {
