@@ -28,10 +28,10 @@
     "start": "yarn server:dist"
   },
   "dependencies": {
-    "@chainlink/ea-bootstrap": "workspace:*",
+    "@chainlink/ea-bootstrap": "0.2.0",
     "@chainlink/ea-test-helpers": "workspace:*",
     "decimal.js": "^10.3.1",
-    "ethers": "^5.4.6",
+    "ethers": "^6.0.0",
     "tslib": "^2.1.0"
   },
   "devDependencies": {
