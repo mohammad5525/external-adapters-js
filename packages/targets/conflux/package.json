@@ -28,9 +28,9 @@
     "start": "yarn server:dist"
   },
   "dependencies": {
-    "@chainlink/ea-bootstrap": "workspace:*",
+    "@chainlink/ea-bootstrap": "0.2.0",
     "@chainlink/ea-test-helpers": "workspace:*",
-    "ethers": "^5.4.6",
+    "ethers": "^6.0.0",
     "js-conflux-sdk": "^1.5.11",
     "tslib": "^2.3.1"
   },
