@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "@cardano-ogmios/client": "^5.0.0",
-    "@chainlink/ea-bootstrap": "workspace:*",
+    "@chainlink/ea-bootstrap": "0.2.0",
     "@chainlink/ea-test-helpers": "workspace:*",
     "@types/ws": "8.5.14",
     "ethers": "^5.4.6",
