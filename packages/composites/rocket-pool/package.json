@@ -32,7 +32,7 @@
     "start": "yarn server:dist"
   },
   "dependencies": {
-    "@chainlink/ea-bootstrap": "workspace:*",
+    "@chainlink/ea-bootstrap": "0.2.0",
     "@chainlink/ea-reference-data-reader": "workspace:*",
     "decimal.js": "^10.3.1",
     "ethers": "^5.4.6",
