@@ -13,8 +13,8 @@
     "start": "yarn server:dist"
   },
   "dependencies": {
-    "@chainlink/external-adapter-framework": "2.6.0",
-    "@chainlink/finnhub-adapter": "workspace:*",
+    "@chainlink/external-adapter-framework": "2.11.6",
+    "@chainlink/finnhub-adapter": "0.0.1",
     "tslib": "2.4.1"
   },
   "devDependencies": {
