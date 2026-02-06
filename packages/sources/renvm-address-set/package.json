@@ -31,7 +31,7 @@
     "start": "yarn server:dist"
   },
   "dependencies": {
-    "@chainlink/ea-bootstrap": "workspace:*",
+    "@chainlink/ea-bootstrap": "0.2.0",
     "@chainlink/ea-test-helpers": "workspace:*",
     "@chainlink/proof-of-reserves-adapter": "workspace:*",
     "@renproject/interfaces": "^2.5.1",
