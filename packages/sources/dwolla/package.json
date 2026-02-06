@@ -28,7 +28,7 @@
     "start": "yarn server:dist"
   },
   "dependencies": {
-    "@chainlink/ea-bootstrap": "workspace:*",
+    "@chainlink/ea-bootstrap": "0.2.0",
     "@chainlink/ea-test-helpers": "workspace:*",
     "dwolla-v2": "^3.2.0",
     "tslib": "^2.3.1"
