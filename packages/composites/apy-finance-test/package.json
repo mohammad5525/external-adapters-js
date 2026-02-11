@@ -28,9 +28,9 @@
     "start": "yarn server:dist"
   },
   "dependencies": {
-    "@chainlink/external-adapter-framework": "2.6.0",
+    "@chainlink/external-adapter-framework": "2.11.6",
     "@chainlink/token-allocation-test-adapter": "workspace:*",
-    "axios": "1.9.0",
+    "axios": "1.13.5",
     "ethers": "5.4.7",
     "tslib": "^2.3.1"
   },
