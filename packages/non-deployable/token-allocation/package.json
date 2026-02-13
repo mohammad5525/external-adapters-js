@@ -37,7 +37,7 @@
     "@chainlink/coinpaprika-adapter": "workspace:*",
     "@chainlink/coinranking-adapter": "workspace:*",
     "@chainlink/cryptocompare-adapter": "workspace:*",
-    "@chainlink/ea-bootstrap": "workspace:*",
+    "@chainlink/ea-bootstrap": "0.2.0",
     "@chainlink/ea-test-helpers": "workspace:*",
     "@chainlink/finage-adapter": "workspace:*",
     "@chainlink/kaiko-adapter": "workspace:*",
