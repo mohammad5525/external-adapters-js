@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@chainlink/external-adapter-framework": "2.6.0",
-    "@chainlink/finnhub-adapter": "workspace:*",
+    "@chainlink/finnhub-adapter": "0.0.1",
     "tslib": "2.4.1"
   },
   "devDependencies": {
