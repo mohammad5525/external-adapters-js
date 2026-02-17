@@ -25,7 +25,7 @@
     "start": "yarn server:dist"
   },
   "dependencies": {
-    "@chainlink/ea-bootstrap": "workspace:*",
+    "@chainlink/ea-bootstrap": "0.2.0",
     "@chainlink/ea-reference-data-reader": "workspace:*",
     "@chainlink/ea-test-helpers": "workspace:*",
     "@chainlink/token-allocation-adapter": "workspace:*",
