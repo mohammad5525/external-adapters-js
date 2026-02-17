@@ -44,7 +44,7 @@
     "@chainlink/chain-reserve-wallet-adapter": "workspace:*",
     "@chainlink/coinbase-prime-adapter": "workspace:*",
     "@chainlink/cryptoapis-adapter": "workspace:*",
-    "@chainlink/ea-bootstrap": "workspace:*",
+    "@chainlink/ea-bootstrap": "0.2.0",
     "@chainlink/ea-test-helpers": "workspace:*",
     "@chainlink/eth-balance-adapter": "workspace:*",
     "@chainlink/eth-beacon-adapter": "workspace:*",
